@@ -1,0 +1,10 @@
+
+https://howtodoinjava.com/spring-cloud/spring-hystrix-circuit-breaker-tutorial/
+
+http://localhost:9098/getSchoolDetails/abcschool
+stop the student service
+http://localhost:9098/getSchoolDetails/abcschool
+
+Hystrix Dashboard
+http://localhost:9098/hystrix.stream
+http://localhost:9098/hystrix
